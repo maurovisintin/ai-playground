@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6863896b-b065-4293-8142-9332931bca76"
+      }
+    },
+    "owner": "sexykodo"
   }
 }
